@@ -8,11 +8,15 @@ A dashboard for building, testing and monitoring custom AI agents. It shows how 
 
 | Overview | Playground |
 |---|---|
-| ![Overview](docs/overview.png) | ![Playground](docs/playground.png) |
+| ![Overview](<img width="1894" height="796" alt="image" src="https://github.com/user-attachments/assets/f3d0a02a-26f6-4cd1-8388-7afd471d2122" />
+) | ![Playground](<img width="1888" height="787" alt="image" src="https://github.com/user-attachments/assets/1ed93edb-fccb-4e90-b60b-f6262a624470" />
+) |
 
 | Workflows | Knowledge base |
 |---|---|
-| ![Workflows](docs/workflows.png) | ![Knowledge base](docs/knowledge-base.png) |
+| ![Workflows](<img width="1891" height="784" alt="image" src="https://github.com/user-attachments/assets/a3362267-b195-4dd9-85cf-c34f252fa86e" />
+) | ![Knowledge base](<img width="1881" height="801" alt="image" src="https://github.com/user-attachments/assets/678f486a-8c95-4537-872e-341e1fc3cce1" />
+) |
 
 ## What's inside
 
