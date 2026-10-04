@@ -6,17 +6,17 @@ A dashboard for building, testing and monitoring custom AI agents. It shows how 
 
 ## Screenshots
 
-| Overview | Playground |
-|---|---|
-| <img width="1894" height="796" alt="image" src="https://github.com/user-attachments/assets/f3d0a02a-26f6-4cd1-8388-7afd471d2122" />
- | (<img width="1888" height="787" alt="image" src="https://github.com/user-attachments/assets/1ed93edb-fccb-4e90-b60b-f6262a624470" />
- |
+### Overview
+<img src="https://github.com/user-attachments/assets/f3d0a02a-26f6-4cd1-8388-7afd471d2122" alt="Overview" width="100%">
 
-| Workflows | Knowledge base |
-|---|---|
-| (<img width="1891" height="784" alt="image" src="https://github.com/user-attachments/assets/a3362267-b195-4dd9-85cf-c34f252fa86e" />
-) | (<img width="1881" height="801" alt="image" src="https://github.com/user-attachments/assets/678f486a-8c95-4537-872e-341e1fc3cce1" />
-) |
+### Playground
+<img src="https://github.com/user-attachments/assets/1ed93edb-fccb-4e90-b60b-f6262a624470" alt="Playground" width="100%">
+
+### Workflows
+<img src="https://github.com/user-attachments/assets/a3362267-b195-4dd9-85cf-c34f252fa86e" alt="Workflows" width="100%">
+
+### Knowledge base
+<img src="https://github.com/user-attachments/assets/678f486a-8c95-4537-872e-341e1fc3cce1" alt="Knowledge base" width="100%">
 
 ## What's inside
 
