@@ -1,0 +1,6 @@
+{
+  "name": "AgentForge AI",
+  "description": "Enterprise platform to build, manage, and monitor custom AI agents, workflows, and RAG knowledge bases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

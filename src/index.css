@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Geist', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background-color: #F5F6F8;
+    color: #101828;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'Geist Mono', monospace;
+  }
+}
+
+/* Subtle scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E4E7EC;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D0D5DD;
+}
+
+/* Card subtle shadow matching enterprise design systems */
+.card-shadow {
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+}
+
+
